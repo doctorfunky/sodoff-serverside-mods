@@ -1,0 +1,280 @@
+<sodoffmod xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <items> 
+		<item action="replace">
+            <data>
+				<an>RS_DATA/animalbunnydo/PfDWBunnyThawfest</an>
+				<c>
+				  <cid>391</cid>
+				  <cn>Farm Animals</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>20775</id>
+				</c>
+				<ct>0</ct>
+				<ct2>120</ct2>
+				<cp>0</cp>
+				<d>Feed your Thawfest Painted Bunny to earn 4 Thawfest Medals or 2 Bunny Furs in 60 minutes.</d>
+				<icn>RS_DATA/farmanimaldwicons/IcoFarmDWAnimalBunnyThawfest</icn>
+				<im>-1</im>
+				<id>20775</id>
+				<itn>Thawfest Painted Bunny</itn>
+				<itnp>Thawfest Painted Bunnies</itnp>
+				<l>false</l>
+				<ro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<rid>1</rid>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<g xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<is>
+				  <ItemStateID>1641</ItemStateID>
+				  <Name>ThawfestRabbitFeed</Name>
+				  <Rule>
+					<Criterias xsi:type="ItemStateCriteriaLength">
+					  <Type>1</Type>
+					  <Period>0</Period>
+					</Criterias>
+					<Criterias xsi:type="ItemStateCriteriaConsumable">
+					  <Type>2</Type>
+					  <ItemID>8892</ItemID>
+					  <ConsumeUses>false</ConsumeUses>
+					  <Amount>1</Amount>
+					</Criterias>
+					<Criterias xsi:type="ItemStateCriteriaSpeedUpItem">
+					  <Type>4</Type>
+					  <ItemID>8894</ItemID>
+					  <ConsumeUses>false</ConsumeUses>
+					  <Amount>1</Amount>
+					  <ChangeState>true</ChangeState>
+					  <EndStateID>1643</EndStateID>
+					  <SpeedUpCapacity>0</SpeedUpCapacity>
+					  <SpeedUpUses>true</SpeedUpUses>
+					  <ProcessRewards>false</ProcessRewards>
+					</Criterias>
+					<CompletionAction>
+					  <Transition>1</Transition>
+					</CompletionAction>
+				  </Rule>
+				  <Order>1</Order>
+				  <AchievementID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <MessageID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				</is>
+				<is>
+				  <ItemStateID>1642</ItemStateID>
+				  <Name>NoInteraction</Name>
+				  <Rule>
+					<Criterias xsi:type="ItemStateCriteriaLength">
+					  <Type>1</Type>
+					  <Period>1799</Period>
+					</Criterias>
+					<Criterias xsi:type="ItemStateCriteriaSpeedUpItem">
+					  <Type>4</Type>
+					  <ItemID>8894</ItemID>
+					  <ConsumeUses>false</ConsumeUses>
+					  <Amount>1</Amount>
+					  <ChangeState>true</ChangeState>
+					  <EndStateID>1643</EndStateID>
+					  <SpeedUpCapacity>0</SpeedUpCapacity>
+					  <SpeedUpUses>true</SpeedUpUses>
+					  <ProcessRewards>false</ProcessRewards>
+					</Criterias>
+					<CompletionAction>
+					  <Transition>1</Transition>
+					</CompletionAction>
+				  </Rule>
+				  <Order>2</Order>
+				  <AchievementID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <MessageID>529</MessageID>
+				</is>
+				<is>
+				  <ItemStateID>1643</ItemStateID>
+				  <Name>ThawfestRabbitHarvest</Name>
+				  <Rule>
+					<Criterias xsi:type="ItemStateCriteriaLength">
+					  <Type>1</Type>
+					  <Period>0</Period>
+					</Criterias>
+					<CompletionAction>
+					  <Transition>4</Transition>
+					</CompletionAction>
+				  </Rule>
+				  <Order>3</Order>
+				  <AchievementID>207871</AchievementID>
+				  <MessageID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <Rewards>
+					<a>4</a>
+					<p>12</p>
+					<i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<t>1</t>
+					<r>927</r>
+					<ii>0</ii>
+					<ai>207871</ai>
+				  </Rewards>
+				  <Rewards>
+					<a>33</a>
+					<p>9</p>
+					<i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<t>1</t>
+					<r>1951</r>
+					<ii>0</ii>
+					<ai>207871</ai>
+				  </Rewards>
+				  <Rewards>
+					<a>2</a>
+					<p>6</p>
+					<i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<t>1</t>
+					<r>10862</r>
+					<ii>8895</ii>
+					<ai>207871</ai>
+				  </Rewards>
+				</is>
+				<rf>0</rf>
+				<rtid>9</rtid>
+				<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ir xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ipsm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ism xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<bp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			</data>
+        </item>
+		<item action="replace">
+            <data>
+				<an>RS_DATA/animalwildboardo/PfDWWildBoarThawfest</an>
+				<c>
+				  <cid>391</cid>
+				  <cn>Farm Animals</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>20776</id>
+				</c>
+				<ct>0</ct>
+				<ct2>120</ct2>
+				<cp>0</cp>
+				<d>Feed your Thawfest Painted Boar to earn 16 Thawfest Medals or 2 Boar Manure in 180 minutes.</d>
+				<icn>RS_DATA/farmanimaldwicons/IcoFarmDWAnimalBoarThawfest</icn>
+				<im>-1</im>
+				<id>20776</id>
+				<itn>Thawfest Painted Boar</itn>
+				<itnp>Thawfest Painted Boars</itnp>
+				<l>false</l>
+				<ro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<rid>10</rid>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<g xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<is>
+				  <ItemStateID>1644</ItemStateID>
+				  <Name>ThawfestBoarFeed</Name>
+				  <Rule>
+					<Criterias xsi:type="ItemStateCriteriaLength">
+					  <Type>1</Type>
+					  <Period>0</Period>
+					</Criterias>
+					<Criterias xsi:type="ItemStateCriteriaConsumable">
+					  <Type>2</Type>
+					  <ItemID>15129</ItemID>
+					  <ConsumeUses>false</ConsumeUses>
+					  <Amount>1</Amount>
+					</Criterias>
+					<Criterias xsi:type="ItemStateCriteriaSpeedUpItem">
+					  <Type>4</Type>
+					  <ItemID>15128</ItemID>
+					  <ConsumeUses>false</ConsumeUses>
+					  <Amount>1</Amount>
+					  <ChangeState>true</ChangeState>
+					  <EndStateID>1646</EndStateID>
+					  <SpeedUpCapacity>0</SpeedUpCapacity>
+					  <SpeedUpUses>true</SpeedUpUses>
+					  <ProcessRewards>false</ProcessRewards>
+					</Criterias>
+					<CompletionAction>
+					  <Transition>1</Transition>
+					</CompletionAction>
+				  </Rule>
+				  <Order>1</Order>
+				  <AchievementID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <MessageID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				</is>
+				<is>
+				  <ItemStateID>1645</ItemStateID>
+				  <Name>NoInteraction</Name>
+				  <Rule>
+					<Criterias xsi:type="ItemStateCriteriaLength">
+					  <Type>1</Type>
+					  <Period>4499</Period>
+					</Criterias>
+					<Criterias xsi:type="ItemStateCriteriaSpeedUpItem">
+					  <Type>4</Type>
+					  <ItemID>15128</ItemID>
+					  <ConsumeUses>false</ConsumeUses>
+					  <Amount>1</Amount>
+					  <ChangeState>true</ChangeState>
+					  <EndStateID>1646</EndStateID>
+					  <SpeedUpCapacity>0</SpeedUpCapacity>
+					  <SpeedUpUses>true</SpeedUpUses>
+					  <ProcessRewards>false</ProcessRewards>
+					</Criterias>
+					<CompletionAction>
+					  <Transition>1</Transition>
+					</CompletionAction>
+				  </Rule>
+				  <Order>2</Order>
+				  <AchievementID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <MessageID>529</MessageID>
+				</is>
+				<is>
+				  <ItemStateID>1646</ItemStateID>
+				  <Name>ThawfestBoarHarvest</Name>
+				  <Rule>
+					<Criterias xsi:type="ItemStateCriteriaLength">
+					  <Type>1</Type>
+					  <Period>0</Period>
+					</Criterias>
+					<CompletionAction>
+					  <Transition>4</Transition>
+					</CompletionAction>
+				  </Rule>
+				  <Order>3</Order>
+				  <AchievementID>207872</AchievementID>
+				  <MessageID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <Rewards>
+					<a>12</a>
+					<p>12</p>
+					<i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<t>1</t>
+					<r>934</r>
+					<ii>0</ii>
+					<ai>207872</ai>
+				  </Rewards>
+				  <Rewards>
+					<a>135</a>
+					<p>9</p>
+					<i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<t>1</t>
+					<r>5673</r>
+					<ii>0</ii>
+					<ai>207872</ai>
+				  </Rewards>
+				  <Rewards>
+					<a>2</a>
+					<p>6</p>
+					<i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<t>1</t>
+					<r>10863</r>
+					<ii>15127</ii>
+					<ai>207872</ai>
+				  </Rewards>
+				</is>
+				<rf>0</rf>
+				<rtid>9</rtid>
+				<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ir xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ipsm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<ism xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				<bp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+			</data>
+        </item>
+    </items>
+</sodoffmod>

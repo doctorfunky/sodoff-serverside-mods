@@ -1,0 +1,247 @@
+<sodoffmod>
+    <items>
+        <item action="replace">
+            <data>
+    <an>DragonStableBoulderINTDO</an>
+    <at>
+      <k>2D</k>
+      <v>1</v>
+      <id>11786</id>
+    </at>
+    <at>
+      <k>NestCount</k>
+      <v>4</v>
+      <id>11786</id>
+    </at>
+    <at>
+      <k>StableType</k>
+      <v>Boulder</v>
+      <id>11786</id>
+    </at>
+    <at>
+      <k>Preview</k>
+      <v>RS_DATA/DragonsStablesDO.unity3d/AniDWDragonsStoreBoulderStable</v>
+      <id>11786</id>
+    </at>
+    <at>
+      <k>2D Size</k>
+      <v>300,500</v>
+      <id>11786</id>
+    </at>
+    <c>
+      <cid>455</cid>
+      <cn>Dragons Dragon Stable</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>11786</id>
+    </c>
+    <ct>1500</ct>
+    <ct2>0</ct2>
+    <cp>0</cp>
+    <d>This rocky cavern has 4 nests and is especially loved by Boulder class dragons! This stable is unlocked by Ultimate Dragon Trainer points, and is 10% cheaper than it's counterpart!</d>
+    <icn>RS_DATA/DragonsStablesDO.unity3d/IcoDWDragonStableBoulder</icn>
+    <im>1</im>
+    <id>11786</id>
+    <itn>Boulder Stable UDT</itn>
+    <l>false</l>
+    <ro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <s>false</s>
+    <as>false</as>
+    <sf>10</sf>
+    <u>-1</u>
+    <g xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rf>0</rf>
+    <rtid>12</rtid>
+    <p>15000</p>
+    <ir xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ipsm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ism xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <bp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+    <an>RS_DATA/DragonEgg.unity3d/PfEggZippleback</an>
+    <at>
+      <k>PetTypeID</k>
+      <v>16</v>
+      <id>9746</id>
+    </at>
+    <c>
+      <cid>456</cid>
+      <cn>Dragons Dragon Egg</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>9746</id>
+    </c>
+    <c>
+      <cid>546</cid>
+      <cn>Mystery Class Eggs</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>9746</id>
+    </c>
+    <ct>900</ct>
+    <ct2>0</ct2>
+    <cp>0</cp>
+    <d>Take this egg to your stables to hatch your own devious Hideous Zippleback! This egg is unlocked by Ultimate Dragon Trainer points, and is 10% cheaper than it's counterpart!</d>
+    <icn>RS_DATA/DragonEgg.unity3d/IcoEggZippleback</icn>
+    <im>-1</im>
+    <id>9746</id>
+    <itn>Hideous Zippleback Egg UDT</itn>
+    <itnp>Hideous Zippleback Eggs</itnp>
+    <l>false</l>
+    <ro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <s>false</s>
+    <as>false</as>
+    <sf>10</sf>
+    <u>-1</u>
+    <g xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rf>0</rf>
+    <rtid>12</rtid>
+    <p>15000</p>
+    <ir xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ipsm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ism xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <bp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+    <an>RS_DATA/DragonEgg.unity3d/PfEggGronckle</an>
+    <at>
+      <k>PetTypeID</k>
+      <v>13</v>
+      <id>9745</id>
+    </at>
+    <c>
+      <cid>456</cid>
+      <cn>Dragons Dragon Egg</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>9745</id>
+    </c>
+    <c>
+      <cid>547</cid>
+      <cn>Boulder Class Eggs</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>9745</id>
+    </c>
+    <ct>900</ct>
+    <ct2>0</ct2>
+    <cp>0</cp>
+    <d>Take this egg to your stables to hatch your own adorable Gronckle! This egg is unlocked by Ultimate Dragon Trainer points, and is 10% cheaper than it's counterpart!</d>
+    <icn>RS_DATA/DragonEgg.unity3d/IcoEggGronckle</icn>
+    <im>-1</im>
+    <id>9745</id>
+    <itn>Gronckle Egg UDT</itn>
+    <itnp>Gronckle Eggs</itnp>
+    <l>false</l>
+    <ro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <s>false</s>
+    <as>false</as>
+    <sf>10</sf>
+    <u>-1</u>
+    <g xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rf>0</rf>
+    <rtid>12</rtid>
+    <p>7500</p>
+    <ir xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ipsm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ism xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <bp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+    <an>RS_DATA/DragonEgg.unity3d/PfEggNightmare</an>
+    <at>
+      <k>PetTypeID</k>
+      <v>15</v>
+      <id>9748</id>
+    </at>
+    <c>
+      <cid>456</cid>
+      <cn>Dragons Dragon Egg</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>9748</id>
+    </c>
+    <c>
+      <cid>548</cid>
+      <cn>Stoker Class Eggs</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>9748</id>
+    </c>
+    <ct>900</ct>
+    <ct2>0</ct2>
+    <cp>0</cp>
+    <d>Take this egg to your stables to hatch your own ferocious Monstrous Nightmare! This egg is unlocked by Ultimate Dragon Trainer points, and is 10% cheaper than it's counterpart!</d>
+    <icn>RS_DATA/DragonEgg.unity3d/IcoEggNightmare</icn>
+    <im>-1</im>
+    <id>9748</id>
+    <itn>Monstrous Nightmare UDT</itn>
+    <itnp>Monstrous Nightmare Eggs</itnp>
+    <l>false</l>
+    <ro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <s>false</s>
+    <as>false</as>
+    <sf>10</sf>
+    <u>-1</u>
+    <g xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rf>0</rf>
+    <rtid>12</rtid>
+    <p>50000</p>
+    <ir xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ipsm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ism xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <bp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+    <an>RS_DATA/DragonEgg.unity3d/PfEggNadder</an>
+    <at>
+      <k>PetTypeID</k>
+      <v>14</v>
+      <id>9747</id>
+    </at>
+    <c>
+      <cid>456</cid>
+      <cn>Dragons Dragon Egg</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>9747</id>
+    </c>
+    <c>
+      <cid>549</cid>
+      <cn>Tracker Class Eggs</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>9747</id>
+    </c>
+    <ct>900</ct>
+    <ct2>0</ct2>
+    <cp>0</cp>
+    <d>Take this egg into your stables to hatch your own clever Deadly Nadder! This egg is unlocked by Ultimate Dragon Trainer points, and is 10% cheaper than it's counterpart!</d>
+    <icn>RS_DATA/DragonEgg.unity3d/IcoEggNadder</icn>
+    <im>-1</im>
+    <id>9747</id>
+    <itn>Deadly Nadder Egg UDT</itn>
+    <itnp>Deadly Nadder Eggs</itnp>
+    <l>false</l>
+    <ro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <s>false</s>
+    <as>false</as>
+    <sf>10</sf>
+    <u>-1</u>
+    <g xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <rf>0</rf>
+    <rtid>12</rtid>
+    <p>50000</p>
+    <ir xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ipsm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <ism xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+    <bp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            </data>
+        </item>
+    </items>
+</sodoffmod>

@@ -1,0 +1,245 @@
+<sodoffmod>
+    <items>
+        <item>
+            <storeID>102</storeID>
+            <data>
+                <an>RS_DATA/PfDWDragonsStoreGems05.unity3d/PfDWDragonsStoreGems04</an>
+                <at>
+                    <k>VCashRedemptionValue</k>
+                    <v>1</v>
+                    <id>93721</id>
+                </at>
+                <c>
+                    <cid>425</cid>
+                    <cn>Dragons Treasure</cn>
+                    <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                    <id>93721</id>
+                </c>
+                <ct>0</ct>
+                <ct2>1</ct2>
+                <cp>0</cp>
+                <d>Gems have been moved to the New User Bundles category!</d>
+                <icn>RS_DATA/DWStoreIconsDO.unity3d/IcoDWDragonsStoreGems01</icn>
+                <im>-1</im>
+                <id>93721</id>
+                <itn>Gems moved to New User Bundles!</itn>
+                <l>false</l>
+                <s>false</s>
+                <as>false</as>
+                <sf>0</sf>
+                <u>-1</u>
+                <rf>0</rf>
+                <rtid>0</rtid>
+            </data>
+        </item>
+        <item action="remove"><id>12721</id></item>
+        <item>
+            <storeID>102</storeID>
+            <data>
+                <an>RS_DATA/PfDWDragonsStoreGems05.unity3d/PfDWDragonsStoreGems04</an>
+				<at>
+					<k>New</k>
+					<v>True</v>
+				</at>
+				<at>
+					<k>VCashRedemptionValue</k>
+					<v>500</v>
+					<id>92721</id>
+				</at>
+				<c>
+					<cid>514</cid>
+                    <cn>Dragons Expansions</cn>
+					<i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<id>92721</id>
+				</c>
+				<c>
+					<cid>575</cid>
+					<cn>SoD New User Packs</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>92721</id>
+				</c>
+				<c>
+				  <cid>436</cid>
+				  <cn>Dragons Bundle</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>92721</id>
+				</c>
+                <ct>2500</ct>
+                <ct2>0</ct2>
+                <cp>0</cp>
+                <d>500 Gems</d>
+                <icn>RS_DATA/DWStoreIconsDO.unity3d/IcoDWDragonsStoreGems04</icn>
+                <im>-1</im>
+                <id>92721</id>
+                <itn>500 Gems</itn>
+                <l>false</l>
+                <s>false</s>
+                <as>false</as>
+                <sf>0</sf>
+                <u>-1</u>
+                <rf>0</rf>
+                <rtid>0</rtid>
+            </data>
+        </item>
+		<item action="remove"><id>12732</id></item>
+		<item>
+			<storeID>102</storeID>
+            <data>
+                <an>RS_DATA/PfDWDragonsStoreGems03.unity3d/PfDWDragonsStoreGems02</an>
+                <at>
+                    <k>New</k>
+                    <v>True</v>
+                    <id>92732</id>
+                </at>
+				<at>
+				  <k>VCashRedemptionValue</k>
+				  <v>100</v>
+				  <id>92732</id>
+				</at>
+				<c>
+					<cid>514</cid>
+                    <cn>Dragons Expansions</cn>
+					<i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+					<id>92732</id>
+				</c>
+				<c>
+					<cid>575</cid>
+					<cn>SoD New User Packs</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>92732</id>
+				</c>
+				<c>
+				  <cid>436</cid>
+				  <cn>Dragons Bundle</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>92732</id>
+				</c>
+				<ct>500</ct>
+				<ct2>0</ct2>
+				<cp>0</cp>
+				<d>100 Gems</d>
+				<icn>RS_DATA/DWStoreIconsDO.unity3d/IcoDWDragonsStoreGems02</icn>
+				<im>-1</im>
+				<id>92732</id>
+				<itn>100 Gems</itn>
+				<l>false</l>
+				<s>false</s>
+				<as>false</as>
+				<sf>0</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+		<item action="replace">
+            <data>
+				<an>RS_DATA/PfCollectDWGoldChest.unity3d/PfCollectDWGoldChest</an>
+                <at>
+                    <k>New</k>
+                    <v>True</v>
+                    <id>8381</id>
+                </at>
+				<at>
+				  <k>CoinRedemptionValue</k>
+				  <v>400</v>
+				  <id>8381</id>
+				</at>
+				<c>
+				  <cid>425</cid>
+				  <cn>Dragons Treasure</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>8381</id>
+				</c>
+				<ct>0</ct>
+				<ct2>125</ct2>
+				<cp>0</cp>
+				<d>400 Gold</d>
+				<icn>RS_DATA/CollectDWIcons.unity3d/IcoCollectDWGoldChest</icn>
+				<im>-1</im>
+				<id>8381</id>
+				<itn>400 Gold</itn>
+				<l>false</l>
+				<rid>0</rid>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+				<an>RS_DATA/PfCollectDWGoldChest.unity3d/PfCollectDWGoldChest</an>
+                <at>
+                    <k>New</k>
+                    <v>True</v>
+                    <id>8204</id>
+                </at>
+				<at>
+				  <k>CoinRedemptionValue</k>
+				  <v>800</v>
+				  <id>8204</id>
+				</at>
+				<c>
+				  <cid>425</cid>
+				  <cn>Dragons Treasure</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>8204</id>
+				</c>
+				<ct>0</ct>
+				<ct2>250</ct2>
+				<cp>0</cp>
+				<d>800 Gold</d>
+				<icn>RS_DATA/CollectDWIcons.unity3d/IcoCollectDWGoldChest</icn>
+				<im>-1</im>
+				<id>8204</id>
+				<itn>800 Gold</itn>
+				<l>false</l>
+				<rid>0</rid>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+			    <an>RS_DATA/PfCollectDWGoldChest.unity3d/PfCollectDWGoldChest</an>
+                <at>
+                    <k>New</k>
+                    <v>True</v>
+                    <id>13185</id>
+                </at>
+				<at>
+				  <k>CoinRedemptionValue</k>
+				  <v>2800</v>
+				  <id>13185</id>
+				</at>
+				<c>
+				  <cid>425</cid>
+				  <cn>Dragons Treasure</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13185</id>
+				</c>
+				<ct>0</ct>
+				<ct2>875</ct2>
+				<cp>0</cp>
+				<d>2800 Gold</d>
+				<icn>RS_DATA/CollectDWIcons.unity3d/IcoCollectDWGoldChest</icn>
+				<im>-1</im>
+				<id>13185</id>
+				<itn>2800 Gold</itn>
+				<l>false</l>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+    </items>
+</sodoffmod>

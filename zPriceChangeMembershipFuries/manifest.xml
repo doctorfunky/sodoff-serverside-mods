@@ -1,0 +1,102 @@
+<sodoffmod>
+    <items>
+        <item action="replace">
+            <data>
+    <an>RS_DATA/Content/DOJILZ/Dragons/IcoDWDragonsFSPortraitToothless.png</an>
+                <at>
+                    <k>New</k>
+                    <v>True</v>
+                    <id>8967</id>
+                </at>
+    <at>
+      <k>PetTypeID</k>
+      <v>17</v>
+      <id>8967</id>
+    </at>
+    <c>
+      <cid>454</cid>
+      <cn>Dragons Dragon Ticket</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>8967</id>
+    </c>
+    <!-- not visible in 1.13 store, due to lack 456 (Dragons Dragon Egg) category ... but we can't add this category, because otherwise player get adult Toothless from ticket and hatchable Toothless Egg -->
+    <c>
+      <cid>550</cid>
+      <cn>Strike Class Eggs</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>8967</id>
+    </c>
+    <ct>0</ct>
+    <ct2>1200</ct2>
+    <cp>0</cp>
+    <d>Congratulations on your membership!
+
+Toothless will now play with you!</d>
+    <!--<icn>Toothless</icn>-->
+    <icn>RS_SHARED/DWDragonsSkinsNightfuryDO.unity3d/IcoDWNightFuryAlpha</icn>
+    <im>1</im>
+    <id>8967</id>
+    <itn>Toothless</itn>
+    <l>false</l>
+    <rid>0</rid>
+    <s>false</s>
+    <as>false</as>
+    <sf>10</sf>
+    <u>-1</u>
+    <rf>0</rf>
+    <rtid>0</rtid>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+    <an>RS_DATA/Content/DOJILZ/Dragons/IcoDWLightFury.png</an>
+                <at>
+                    <k>New</k>
+                    <v>True</v>
+                    <id>15873</id>
+                </at>
+    <at>
+      <k>HatchDragonFirst</k>
+      <v>1</v>
+      <id>15873</id>
+    </at>
+    <at>
+      <k>PetTypeID</k>
+      <v>96</v>
+      <id>15873</id>
+    </at>
+    <c>
+      <cid>454</cid>
+      <cn>Dragons Dragon Ticket</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>15873</id>
+    </c>
+    <c>
+      <cid>550</cid>
+      <cn>Strike Class Eggs</cn>
+      <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+      <id>15873</id>
+    </c>
+    <ct>0</ct>
+    <ct2>1000</ct2>
+    <cp>0</cp>
+    <d>Congratulations on your membership
+
+The Light Fury will now play with you!</d>
+    <!--<icn>LightFury</icn>-->
+    <icn>RS_SHARED/dwdragonsskinslightfurydo/IcoDWLightFuryAlpha</icn>
+    <im>1</im>
+    <id>15873</id>
+    <itn>The Light Fury</itn>
+    <l>false</l>
+    <rid>0</rid>
+    <s>false</s>
+    <as>false</as>
+    <sf>10</sf>
+    <u>-1</u>
+    <rf>0</rf>
+    <rtid>0</rtid>
+            </data>
+        </item>
+    </items>
+</sodoffmod>

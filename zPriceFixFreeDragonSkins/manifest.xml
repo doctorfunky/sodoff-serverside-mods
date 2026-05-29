@@ -1,0 +1,277 @@
+<sodoffmod>
+    <items>
+        <item action="replace">
+            <data>
+				<an>RS_SHARED/DWDragonsSkinsGronckleDO.unity3d/PfDWSnowGronckle</an>
+				<at>
+				  <k>PetTypeID</k>
+				  <v>13</v>
+				  <id>17893</id>
+				</at>
+				<c>
+				  <cid>555</cid>
+				  <cn>Boulder Class Skins</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>17893</id>
+				</c>
+				<c>
+				  <cid>424</cid>
+				  <cn>Dragons ColorKits</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>17893</id>
+				</c>
+				<ct>0</ct>
+				<ct2>300</ct2>
+				<cp>0</cp>
+				<d>Turn your Gronckle into a Snowman. Reward for Snoggletog 2019.</d>
+				<icn>RS_SHARED/dwdragonsskinsgronckledo/IcoDWSnowGronckle</icn>
+				<im>1</im>
+				<id>17893</id>
+				<itn>Snow Gronckle Skin</itn>
+				<itnp>Snow Gronckle Skins</itnp>
+				<l>false</l>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+		<item action="replace">
+            <data>
+				<an>RS_SHARED/DWDragonsSkinsZipplebackDO.unity3d/PfDWZipplebackRacingGold</an>
+				<at>
+				  <k>PetTypeID</k>
+				  <v>16</v>
+				  <id>13324</id>
+				</at>
+				<c>
+				  <cid>424</cid>
+				  <cn>Dragons ColorKits</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13324</id>
+				</c>
+				<c>
+				  <cid>554</cid>
+				  <cn>Mystery Class Skins</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13324</id>
+				</c>
+				<ct>0</ct>
+				<ct2>350</ct2>
+				<cp>0</cp>
+				<d>Two heads means it's twice the champion!</d>
+				<icn>RS_SHARED/DWDragonsSkinsZipplebackDO.unity3d/IcoDWZipplebackRacingGold</icn>
+				<im>1</im>
+				<id>13324</id>
+				<itn>Zippleback Champion Paint</itn>
+				<l>false</l>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+				<an>RS_SHARED/DWDragonsSkinsGronckleDO.unity3d/PfDWGronckleRacingGold</an>
+				<at>
+				  <k>PetTypeID</k>
+				  <v>13</v>
+				  <id>13321</id>
+				</at>
+				<c>
+				  <cid>555</cid>
+				  <cn>Boulder Class Skins</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13321</id>
+				</c>
+				<c>
+				  <cid>424</cid>
+				  <cn>Dragons ColorKits</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13321</id>
+				</c>
+				<ct>0</ct>
+				<ct2>350</ct2>
+				<cp>0</cp>
+				<d>A Gronckle in its victory colors is a beautiful thing to see!</d>
+				<icn>RS_SHARED/DWDragonsSkinsGronckleDO.unity3d/IcoDWGronckleRacingGold</icn>
+				<im>1</im>
+				<id>13321</id>
+				<itn>Gronckle Champion Paint</itn>
+				<l>false</l>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+				<an>RS_SHARED/DWDragonsSkinsNightfuryDO.unity3d/PfDWNightfuryAlphaRacingGold</an>
+				<at>
+				  <k>PetTypeID</k>
+				  <v>17</v>
+				  <id>13343</id>
+				</at>
+				<at>
+				  <k>HWGlow</k>
+				  <v>HWGlowAlpha</v>
+				  <id>13343</id>
+				</at>
+				<c>
+				  <cid>424</cid>
+				  <cn>Dragons ColorKits</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13343</id>
+				</c>
+				<c>
+				  <cid>558</cid>
+				  <cn>Strike Class Skins</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13343</id>
+				</c>
+				<ct>0</ct>
+				<ct2>350</ct2>
+				<cp>0</cp>
+				<d>Gold is for the alpha winner!</d>
+				<icn>RS_SHARED/DWDragonsSkinsNightfuryDO.unity3d/IcoDWNightFuryTitanRacingGold</icn>
+				<im>1</im>
+				<id>13343</id>
+				<itn>Alpha Toothless Champion Paint</itn>
+				<l>false</l>
+				<rid>0</rid>
+				<r>
+				  <t>Prereq</t>
+				  <id>12989</id>
+				  <wt>0</wt>
+				  <q>0</q>
+				  <pid>13343</pid>
+				  <mxq>0</mxq>
+				</r>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+				<an>RS_SHARED/DWDragonsSkinsNightmareDO.unity3d/PfDWNightmareRacingGold</an>
+				<at>
+				  <k>PetTypeID</k>
+				  <v>15</v>
+				  <id>13323</id>
+				</at>
+				<c>
+				  <cid>424</cid>
+				  <cn>Dragons ColorKits</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13323</id>
+				</c>
+				<c>
+				  <cid>556</cid>
+				  <cn>Stoker Class Skins</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13323</id>
+				</c>
+				<ct>0</ct>
+				<ct2>350</ct2>
+				<cp>0</cp>
+				<d>A great Monstrous Nightmare needs the colors of a true champion!</d>
+				<icn>RS_SHARED/DWDragonsSkinsNightmareDO.unity3d/IcoDWNightmareRacingGold</icn>
+				<im>1</im>
+				<id>13323</id>
+				<itn>Nightmare Champion Paint</itn>
+				<l>false</l>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+				<an>RS_SHARED/DWDragonsSkinsNightfuryDO.unity3d/PfDWNightfuryRacingGold</an>
+				<at>
+				  <k>PetTypeID</k>
+				  <v>17</v>
+				  <id>13322</id>
+				</at>
+				<c>
+				  <cid>424</cid>
+				  <cn>Dragons ColorKits</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13322</id>
+				</c>
+				<c>
+				  <cid>558</cid>
+				  <cn>Strike Class Skins</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13322</id>
+				</c>
+				<ct>0</ct>
+				<ct2>350</ct2>
+				<cp>0</cp>
+				<d>Wear the paint with pride, bud!</d>
+				<icn>RS_SHARED/DWDragonsSkinsNightfuryDO.unity3d/IcoDWNightFuryRacingGold</icn>
+				<im>1</im>
+				<id>13322</id>
+				<itn>Toothless Champion Paint</itn>
+				<l>false</l>
+				<rid>0</rid>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+        <item action="replace">
+            <data>
+				<an>RS_SHARED/DWDragonsSkinsDeadlyNadderDO.unity3d/PfDWDeadlyNadderRacingGold</an>
+				<at>
+				  <k>PetTypeID</k>
+				  <v>14</v>
+				  <id>13320</id>
+				</at>
+				<c>
+				  <cid>424</cid>
+				  <cn>Dragons ColorKits</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13320</id>
+				</c>
+				<c>
+				  <cid>557</cid>
+				  <cn>Tracker Class Skins</cn>
+				  <i xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+				  <id>13320</id>
+				</c>
+				<ct>0</ct>
+				<ct2>350</ct2>
+				<cp>0</cp>
+				<d>For the Nadder that has earned its colors!</d>
+				<icn>RS_SHARED/DWDragonsSkinsDeadlyNadderDO.unity3d/IcoDWDeadlyNadderRacingGold</icn>
+				<im>1</im>
+				<id>13320</id>
+				<itn>Deadly Nadder Champion Paint</itn>
+				<l>false</l>
+				<s>false</s>
+				<as>false</as>
+				<sf>10</sf>
+				<u>-1</u>
+				<rf>0</rf>
+				<rtid>0</rtid>
+            </data>
+        </item>
+    </items>
+</sodoffmod>
